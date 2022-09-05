@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.077,D:\с++ labs\Project1PCH1.h=D:\с++ labs\GraphsLaba\ProjectGraph.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.345,D:\с++ labs\GraphsLaba\Graph2.h=D:\с++ labs\GraphsLaba\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.973,D:\с++ labs\Unit1.dfm=D:\с++ labs\GraphsLaba\Graph.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.966,D:\с++ labs\Project1.cbproj=D:\с++ labs\GraphsLaba\Project_Graph.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.973,D:\с++ labs\Unit1.h=D:\с++ labs\GraphsLaba\Graph.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.487,=D:\с++ labs\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.345,D:\с++ labs\GraphsLaba\Graph2.dfm=D:\с++ labs\GraphsLaba\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.866,=D:\с++ labs\GraphsLaba\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.973,D:\с++ labs\Unit1.cpp=D:\с++ labs\GraphsLaba\Graph.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.578,=D:\с++ labs\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.345,D:\с++ labs\GraphsLaba\Graph2.cpp=D:\с++ labs\GraphsLaba\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
